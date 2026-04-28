@@ -78,7 +78,7 @@ export default function Hero() {
           <div className="relative flex justify-center lg:justify-end">
             <img
               ref={beaverRef}
-              src="/images/beaver-hero.png"
+              src="images/beaver-hero.png"
               alt="Cool Beaver Mascot"
               className="w-72 sm:w-80 lg:w-[440px] h-auto object-contain drop-shadow-2xl relative z-10"
             />

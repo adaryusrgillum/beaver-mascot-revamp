@@ -161,7 +161,7 @@ export default function CTA() {
 
           <div className="cta-beaver relative flex-shrink-0">
             <img
-              src="/images/beaver-megaphone.png"
+              src="images/beaver-megaphone.png"
               alt="Beaver with megaphone"
               className="cta-beaver-img w-64 sm:w-80 lg:w-[380px] h-auto object-contain drop-shadow-2xl relative z-10"
             />

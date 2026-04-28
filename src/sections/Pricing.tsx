@@ -19,7 +19,7 @@ const plans = [
     ],
     highlighted: false,
     popular: false,
-    image: '/images/beaver-idea.png',
+    image: 'images/beaver-idea.png',
   },
   {
     name: 'STREAM TAKER',
@@ -34,7 +34,7 @@ const plans = [
     ],
     highlighted: false,
     popular: false,
-    image: '/images/beaver-run.png',
+    image: 'images/beaver-run.png',
   },
   {
     name: 'DAM MASTER',
@@ -49,7 +49,7 @@ const plans = [
     ],
     highlighted: true,
     popular: true,
-    image: '/images/beaver-crown.png',
+    image: 'images/beaver-crown.png',
   },
   {
     name: 'CHIEF BEAVER',
@@ -64,7 +64,7 @@ const plans = [
     ],
     highlighted: false,
     popular: false,
-    image: '/images/beaver-build.png',
+    image: 'images/beaver-build.png',
   },
 ]
 
@@ -205,7 +205,7 @@ export default function Pricing() {
         <div className="pricing-beaver mt-24 flex flex-col lg:flex-row items-center justify-between gap-12">
           <div className="flex items-center gap-6">
             <img
-              src="/images/beaver-celebrate.png"
+              src="images/beaver-celebrate.png"
               alt="Celebrating beaver"
               className="w-40 h-auto object-contain drop-shadow-2xl animate-bounce-soft"
             />

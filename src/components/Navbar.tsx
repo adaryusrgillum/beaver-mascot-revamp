@@ -20,7 +20,7 @@ export default function Navbar() {
           <a href="#home" className="flex items-center gap-3 group">
             <div className="relative">
               <img
-                src="/images/beaver-logo.png"
+                src="images/beaver-logo.png"
                 alt="AdvertiseBeaver Logo"
                 className="w-10 h-10 object-contain group-hover:scale-110 transition-transform duration-300"
               />
